@@ -3,8 +3,8 @@
 
 """
 Author: Finlay McAlpine <finlay.mcalpine1@gmail.com>
-Purpose: Word Count
-Method: We're going to use a dictionary as a lookup for any numbers that appear in the given string.
+Purpose: Apples and Bananas
+Method:
 """
 
 import argparse
